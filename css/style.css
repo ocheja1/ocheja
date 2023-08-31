@@ -86,7 +86,8 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background-image: url('../images/tempt1.jpg') ;
+    background-image: url('../images/tempt1.jpg');
+
     background-size: cover;
     background-position: center;
     scroll-behavior: auto;
